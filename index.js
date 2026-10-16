@@ -9,7 +9,7 @@ const client = new Client({
 });
 
 // BURAYA BİLGİLERİNİZİ YAZIN:
-const TOKEN = 'MTU2MDM4ODgzMDQxMzE5NzQ1NA.Ger7xs.pe-8_w7X1wBKqSouu8F0a-GtGEY1i2OPvtvHic';
+const TOKEN = 'client.login(process.env.TOKEN);';
 const VOICE_CHANNEL_ID = '1560335472528597102';
 
 client.once('ready', () => {
