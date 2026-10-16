@@ -1,0 +1,14 @@
+{
+  "name": "606st-bot",
+  "version": "1.0.0",
+  "description": "Discord Voice Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@discordjs/voice": "^0.16.1",
+    "express": "^4.18.2"
+  }
+}
